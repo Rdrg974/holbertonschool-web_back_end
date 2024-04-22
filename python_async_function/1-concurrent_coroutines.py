@@ -1,6 +1,5 @@
 #!/user/bin/env python3
 """An async routine called wait_n."""
-import asyncio
 from typing import List
 
 
