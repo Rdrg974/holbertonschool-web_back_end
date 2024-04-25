@@ -1,5 +1,5 @@
 #!/user/bin/env python3
-"""An asynchronous coroutine named wait_random"""
+"""An asynchronous coroutine named wait_random."""
 import asyncio
 import random
 
