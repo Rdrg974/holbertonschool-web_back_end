@@ -1,4 +1,4 @@
-#!/user/bin/env python3
+#!/usr/bin/env python3
 """Alter a function task_wait_n"""
 from typing import List
 
