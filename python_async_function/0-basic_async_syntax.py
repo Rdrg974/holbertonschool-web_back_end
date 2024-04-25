@@ -1,5 +1,6 @@
 #!/user/bin/env python3
 """Description : An asynchronous coroutine named wait_random."""
+
 import asyncio
 import random
 
